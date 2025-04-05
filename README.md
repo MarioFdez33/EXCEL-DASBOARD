@@ -1,6 +1,7 @@
 # 📈 ANÁLISIS DE LAS VENTAS DE CONCESIONARIOS EN USA 🇺🇸
 
-ÍNDICE: a) Descripción del proyecto b)Definir las hipótesis c) Estructura del proyecto d) Resultados y conclusiones
+## ÍNDICE: a) Descripción del proyecto 
+b)Definir las hipótesis c) Estructura del proyecto d) Resultados y conclusiones
 
 Descripción del proyecto
 Este proyecto lleva a cabo un análisis de las ventas de varios concesionarios en EE.UU durante el año 2022. El objetivo del mismo es crear un tablero con el que podamos ver a simple vista la información básica de las ventas: concesionario con más ventas, coche más vendido, concesionario que peor le va, etc.
