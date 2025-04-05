@@ -1,4 +1,4 @@
-#📈 ANÁLISIS DE LAS VENTAS DE CONCESIONARIOS EN USA 🇺🇸
+# 📈 ANÁLISIS DE LAS VENTAS DE CONCESIONARIOS EN USA 🇺🇸
 
 ÍNDICE: a) Descripción del proyecto b)Definir las hipótesis c) Estructura del proyecto d) Resultados y conclusiones
 
